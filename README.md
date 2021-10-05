@@ -1,6 +1,6 @@
 # **Ritika_Portfolio**
 
-# **Project 1: Sales forecasting for a food & beverage retailer**
+# [Project 1: Sales forecasting for a food & beverage retailer](https://github.com/ritikatiwarii/food_retail_forecasting)
 Created a forecasting model for a department under chilled category of a F&B retailer
 * Loaded 3 years of sales history from Jan 2018 to Feb 2021 into a dataframe.
 * Fixed data anomalies like missing dates in the time series by adding the day with 0
