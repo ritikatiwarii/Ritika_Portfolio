@@ -10,3 +10,8 @@ Created a forecasting model for a department under chilled category of a F&B ret
 * Defined the performance measurement of the forecast
 * Fit the model on the training dat
 * Used the model to predict the data for the test data time period. 
+* Recorded the performance of the model
+
+# **Project 2: Store allocation logic in python**
+Challenge - If we have 'x' quantities of a product in the warehouse and the x needs to be distributed among 'n' stores. What would be one of the best ways to do it?
+
